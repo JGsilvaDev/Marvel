@@ -1,0 +1,23 @@
+[
+    {
+        "Class": "Hero",
+        "Healing Factor": 5.0,
+        "ID": 1.0,
+        "Magic": 10.0,
+        "Name": "Iron Man",
+        "Power": 90.0,
+        "Speed": 50.0,
+        "URL": "https://conteudo.imguol.com.br/c/entretenimento/85/2018/04/25/homem-de-ferro-3-1524693614901_v2_900x506.png"
+    },
+
+    {
+        "Class": "Hero",
+        "Healing Factor": 30.0,
+        "ID": 4.0,
+        "Magic": 15.0,
+        "Name": "Spider-Man",
+        "Power": 70.0,
+        "Speed": 80.0,
+        "URL": "https://t2.tudocdn.net/634803?w=1200&h=1200"
+    }
+]
